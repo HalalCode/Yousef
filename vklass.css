@@ -1,0 +1,176 @@
+
+ body {
+    font-family: helvetica;
+    color: black !important;
+    position: relative;
+}
+  
+    /* Silhouette for student */
+ .actions .portrait * {
+    visibility:hidden !important;
+}
+/* Automatisk registering */
+ .actions .pass * {
+    background-image:url(images/buttons/password.png);
+    text-indent:38px;
+}
+/* Silhouette for student */
+ .image-circle {
+    background-image:url();
+    pointer-events: none;
+    visibility:hidden !important;
+    display:none !important;
+    opacity: 0.4;
+    right: -1220px !important;
+}
+/*Left menu button*/
+ .nav-small img {
+    border: 0;
+    width:500px;
+    /*Englarged*/
+    height:500px;
+}
+/*Left navigation*/
+ .bodyContainer {
+    width:879px;
+    position:relative;
+    height:100%;
+    margin:0 auto;
+    background-color:white;
+    background-repeat:no-repeat;
+}
+.article-content h1 span {
+    position:absolute;
+    left:0px;
+    top:139px;
+    width:650px;
+    text-align:left;
+    font-size: 21px;
+    /*Ändrar på färgen och lägger till
+    underline på "Min klass:"*/
+    color: #000;
+    /*#666 original*/
+    width:607px;
+    margin-left:65px;
+    text-shadow: 0 0 1px #FFF, 0 0 1px #000;
+}
+/*BLOG*/
+ .profil-actions .top-blogg * {
+    background-image:url(images/btn-blogg.png);
+    text-indent:35px;
+    visibility:hidden !important;
+    /*Tar bort en helt meningslös info
+	om hur många posts eller online det är*/
+}
+/*RELATIONER*/
+ .nav .scoreboard .topmenu li.topmenu-relations {
+    background-image: url(images/empty.png);
+    pointer-events: none;
+    visibility:hidden !important;
+    /*Ser till att den försvinner helt*/
+    display:none !important;
+    opacity: 0.4;
+    right: -1220px !important;
+}
+/*Original from source*/
+ #toggleBar {
+    cursor: pointer;
+    z-index: -1;
+    padding:0;
+    position: fixed;
+    _position:expression("absolute");
+    width: 0px;
+    background-color: #e1e1e1;
+    color: #000;
+    top:0;
+    display: table;
+    right: -1220px;
+    height: 100%;
+    overflow: auto;
+}
+/*Original from source*/
+ .article-content {
+    background-image:url(/images/empty.png);
+    background-position:-28px 149px;
+    background-repeat:no-repeat;
+    padding-left:68px;
+}
+/*VERKTYG*/
+ #myToolsBox {
+    pointer-events: none;
+    visibility:hidden !important;
+    display:none !important;
+    opacity: 0.4;
+    right: -1220px !important;
+}
+#toggleBarFlaerp {
+    pointer-events: none;
+    visibility:hidden !important;
+    display:none !important;
+    opacity: 0.4;
+    right: -1220px !important;
+}
+#myToolsBox {
+    pointer-events: none;
+    visibility:hidden !important;
+    display:none !important;
+    opacity: 0.4;
+    right: -1220px !important;
+}
+#toggleBar {
+    pointer-events: none;
+    visibility:hidden !important;
+    display:none !important;
+    opacity: 0.4;
+    right: -1220px !important;
+}
+#toggleBarFlaerpClick {
+    pointer-events: none;
+    visibility:hidden !important;
+    display:none !important;
+    opacity: 0.4;
+}
+#toggleBarFlaerp {
+    pointer-events: none;
+    visibility:hidden !important;
+    display:none !important;
+    opacity: 0.4;
+    right: -1220px !important;
+}
+/*VÄNSTER MENY*/
+ .help {
+    pointer-events: none;
+    visibility:hidden !important;
+    display:none !important;
+    opacity: 0.4;
+}
+.Teams {
+    visibility:hidden !important;
+    display:none !important;
+    opacity: 0.4;
+}
+.Learning_tools {
+    visibility:hidden !important;
+    display:none !important;
+    opacity: 0.4;
+}
+.lounge {
+    visibility:hidden !important;
+    display:none !important;
+    opacity: 0.4;
+}
+.coaching {
+    visibility:hidden !important;
+    display:none !important;
+    opacity: 0.4;
+}
+.minafiler {
+    visibility:hidden !important;
+    display:none !important;
+    opacity: 0.4;
+}
+.skola {
+    visibility:hidden !important;
+    display:none !important;
+    opacity: 0.4;
+}
